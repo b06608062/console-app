@@ -1,0 +1,8 @@
+C:\Users\fanti\source\repos\console-app\console-app\bin\Debug\console-app.exe.config
+C:\Users\fanti\source\repos\console-app\console-app\bin\Debug\console-app.exe
+C:\Users\fanti\source\repos\console-app\console-app\bin\Debug\console-app.pdb
+C:\Users\fanti\source\repos\console-app\console-app\obj\Debug\console-app.csproj.AssemblyReference.cache
+C:\Users\fanti\source\repos\console-app\console-app\obj\Debug\console-app.csproj.SuggestedBindingRedirects.cache
+C:\Users\fanti\source\repos\console-app\console-app\obj\Debug\console-app.csproj.CoreCompileInputs.cache
+C:\Users\fanti\source\repos\console-app\console-app\obj\Debug\console-app.exe
+C:\Users\fanti\source\repos\console-app\console-app\obj\Debug\console-app.pdb
